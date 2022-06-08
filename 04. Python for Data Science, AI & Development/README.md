@@ -35,5 +35,5 @@
     * HTML for Webscraping
     * Webscraping 
 ## Certificate
-[Coursera Python for DataScience AI.pdf](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/files/8859265/Coursera.Python.for.DataScience.AI.pdf)
+![Coursera Python for DataScience AI](https://user-images.githubusercontent.com/89849171/172556484-5bcfd914-f48c-43d4-a456-9a41031969c2.png)
 
