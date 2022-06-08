@@ -1,5 +1,5 @@
 # 04. Python for Data Science, AI & Development
-## Main Topics 
+## Course Structure 
 * ### **Module 1 - Python Basics**
   This module teaches the basics of Python and begins by exploring some of the different data types such as integers, real numbers, and strings. 
   
