@@ -1,4 +1,4 @@
-## 03. Data Visualization and Dashboards with Excel and Cognos
+# 03. Data Visualization and Dashboards with Excel and Cognos
 ## Main Topics
   * Visualizing data using spreadsheets
   * Creating advanced charts
