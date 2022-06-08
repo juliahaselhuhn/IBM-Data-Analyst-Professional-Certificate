@@ -34,3 +34,6 @@
     * REST APIs & HTTP Requests
     * HTML for Webscraping
     * Webscraping 
+## Certificate
+[Coursera Python for DataScience AI.pdf](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/files/8859265/Coursera.Python.for.DataScience.AI.pdf)
+
