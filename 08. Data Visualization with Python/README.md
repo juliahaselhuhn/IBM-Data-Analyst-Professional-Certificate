@@ -15,6 +15,7 @@
   * Introduction to Folium 
     * Maps with markers 
     * Choropleth maps
-  * Creating Dashboards with Plotly and Dash 
+  * Creating Dashboards with Plotly and Dash
+  * **Project: "US Domestic Airline Flights Performance Dashboard"** 
 ## Certificate
 ![Coursera Data Visualization with Python](https://user-images.githubusercontent.com/89849171/172789510-b1f4ab6d-9683-4810-8f78-7f386552d8d4.png)
