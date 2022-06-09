@@ -46,6 +46,6 @@ To verify the certificates, click the images to follow the links.
 
 <p align="middle">
   <a href="https://coursera.org/share/6cd00843f5111ec1d2a39a80c5fa813d"><img src="https://user-images.githubusercontent.com/89849171/172150593-0b7af1fb-54c4-420f-afec-0cc0a217cd4b.png" 
-  <a href="https://www.credly.com/badges/52cd4e5b-66ad-4f48-bef0-62922d994ba4/public_url"><img src="https://user-images.githubusercontent.com/89849171/172152422-fa36e26d-3570-482a-9967-86b8a0055f99.png" height="500"></a>
+  <a href="https://www.credly.com/badges/52cd4e5b-66ad-4f48-bef0-62922d994ba4/public_url"><img src="https://user-images.githubusercontent.com/89849171/172152422-fa36e26d-3570-482a-9967-86b8a0055f99.png" 
 
 
