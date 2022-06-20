@@ -14,7 +14,7 @@ In this project you will apply various Data Analytics skills and techniques that
     * Distribution 
     * Outliers 
     * Correlation
-  * Data Visualization 
+  * Data visualization 
     * Visualizing the distribution of data 
     * Visualizing the relationship between two features
     * Visualizing composition of data 
