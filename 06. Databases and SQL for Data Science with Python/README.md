@@ -22,7 +22,7 @@ The emphasis in this course is on hands-on and practical learning . As such, you
   * Accessing Databases using Python 
     * DB2 
     * SQL magic 
-  * **Project "Chicago Census, Crime, and School Data Analysis using SQL"** 
+  * [**Project "Chicago Census, Crime, and School Data Analysis using SQL"**](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Notebook-for-Peer-Assignment.ipynb)
 
 ## Certificate 
 ![Coursera Databases and SQL](https://user-images.githubusercontent.com/89849171/172563615-9bd22d3f-c193-419a-8639-3c313ecb0af5.png)
