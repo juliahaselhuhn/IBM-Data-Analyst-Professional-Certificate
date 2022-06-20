@@ -7,15 +7,15 @@ The <a href="https://www.coursera.org/professional-certificates/ibm-data-analyst
 This repository contains documentation and resources used to complete the certification, relevant notes and other code snippets, and proof of certification for each course.
   
 ## 📄 Courses
-- :white_check_mark: 01. Introduction to Data Analytics
-- :white_check_mark: 02. Excel Basics for Data Analysis
-- :white_check_mark: 03. Data Visualization and Dashboards with Excel and Cognos
-- :white_check_mark: 04. Python for Data Science, AI & Development
-- :white_check_mark: 05. Python Project for Data Science
-- :white_check_mark: 06. Databases and SQL for Data Science with Python
-- :white_check_mark: 07. Data Analysis with Python
-- :white_check_mark: 08. Data Visualization with Python
-- :white_check_mark: 09. IBM Data Analyst Capstone Project
+01. Introduction to Data Analytics
+02. Excel Basics for Data Analysis
+03. Data Visualization and Dashboards with Excel and Cognos
+04. Python for Data Science, AI & Development
+05. Python Project for Data Science
+06. Databases and SQL for Data Science with Python
+07. Data Analysis with Python
+08. Data Visualization with Python
+09. IBM Data Analyst Capstone Project
   
   
 ## 🛠️ Tools
