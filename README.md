@@ -7,7 +7,7 @@ The <a href="https://www.coursera.org/professional-certificates/ibm-data-analyst
 This repository contains documentation and resources used to complete the certification, relevant notes and other code snippets, and proof of certification for each course.
   
 ## 📄 Courses
-01. Introduction to Data Analytics
+01. [Introduction to Data Analytics](01.%20Introduction%20to%20Data%20Analytics/)
 02. Excel Basics for Data Analysis
 03. Data Visualization and Dashboards with Excel and Cognos
 04. Python for Data Science, AI & Development
