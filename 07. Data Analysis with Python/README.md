@@ -1,5 +1,6 @@
 # 07. Data Analysis with Python
-## Main Topics
+  * **Project: "House price prediction - House sales in King County"**
+## Tasks performed on the dataset
   * Importing datasets 
   * Data wrangling 
     * Pre-processing data in Python 
