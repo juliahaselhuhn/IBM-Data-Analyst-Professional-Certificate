@@ -8,14 +8,14 @@ This repository contains documentation and resources used to complete the certif
   
 ## 📄 Courses
 01. [Introduction to Data Analytics](01.%20Introduction%20to%20Data%20Analytics/)
-02. Excel Basics for Data Analysis
-03. Data Visualization and Dashboards with Excel and Cognos
-04. Python for Data Science, AI & Development
-05. Python Project for Data Science
-06. Databases and SQL for Data Science with Python
-07. Data Analysis with Python
-08. Data Visualization with Python
-09. IBM Data Analyst Capstone Project
+02. [Excel Basics for Data Analysis](02.%20Excel%20Basics%20for%20Data%20Analysis/)
+03. [Data Visualization and Dashboards with Excel and Cognos](03.%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/)
+04. [Python for Data Science, AI & Development](04.%20Python%20for%20Data%20Science,%20AI%20&%20Development/)
+05. [Python Project for Data Science](05.%20Python%20Project%20for%20Data%20Science/)
+06. [Databases and SQL for Data Science with Python](06.%20Databases%20and%20SQL%20for%20Data%20Science/)
+07. [Data Analysis with Python](07.%20Data%20Analysis%20with%20Python/)
+08. [Data Visualization with Python](08.%20Data%20Visualization%20with%20Python/)
+09. [IBM Data Analyst Capstone Project](09.%20IBM%20Data%20Analyst%20Capstone%20Project/)
   
   
 ## 🛠️ Tools
