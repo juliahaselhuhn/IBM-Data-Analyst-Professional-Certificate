@@ -1,6 +1,6 @@
 # 07. Data Analysis with Python
   * **Project: "House price prediction - House sales in King County"**
-## Tasks performed on the dataset
+## Main Topics
   * Importing datasets 
   * Data wrangling 
     * Pre-processing data in Python 
@@ -26,7 +26,6 @@
     * Overfitting, underfitting and model selection 
     * Ridge regression 
     * Grid search 
-  * **Project: "House price prediction - House sales in King County"**
      
 ## Certificate
 ![Coursera Data Analysis with Python](https://user-images.githubusercontent.com/89849171/172606950-c9c242ca-506f-49d2-ad3a-4a7afe4172ea.png)
