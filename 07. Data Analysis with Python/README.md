@@ -1,5 +1,4 @@
 # 07. Data Analysis with Python
-  * [**Project: "House price prediction - House sales in King County"**](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Final%20Assignment%20-%20House%20Price%20Prediction.ipynb)
 ## Main Topics
   * [Importing datasets](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python/01.%20Importing%20Datasets)
   * [Data wrangling](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/07.%20Data%20Analysis%20with%20Python/02.%20Data%20Wrangling)
@@ -26,6 +25,6 @@
     * Overfitting, underfitting and model selection 
     * Ridge regression 
     * Grid search 
-     
+* [**Project: "House price prediction - House sales in King County"**](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Final%20Assignment%20-%20House%20Price%20Prediction.ipynb)
 ## Certificate
 ![Coursera Data Analysis with Python](https://user-images.githubusercontent.com/89849171/172606950-c9c242ca-506f-49d2-ad3a-4a7afe4172ea.png)
