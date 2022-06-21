@@ -41,6 +41,13 @@ The following Python libraries were used throughout the certification: <br>
   <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35"> <br>
 </p>
 
+## 🛠️ Python Projects
+- [**"Extracting and Visualizing Stock Data"**](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/05.%20Python%20Project%20for%20Data20Science)
+- [**"Chicago Census, Crime, and School Data Analysis using SQL"**](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Notebook-for-Peer-Assignment.ipynb)
+- [**"House price prediction - House sales in King County"**](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Final%20Assignment%20-%20House%20Price%20Prediction.ipynb)
+- [**"US Domestic Airline Flights Performance Dashboard"**](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python/07.%20Final%20Assignment)
+- [**"IBM Data Analyst Capstone Project"**](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20IBM%20Data%20Analyst%20Capstone20Project)
+
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
 
