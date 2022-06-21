@@ -16,6 +16,6 @@
     * Maps with markers 
     * Choropleth maps
   * [Creating dashboards with Plotly and Dash](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python/06.%20Plotly_Basics.ipynb)
-  * [**Project: "US Domestic Airline Flights Performance Dashboard"** ](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python/07.%20Final%20Assignment)
+  * [**Project: "US Domestic Airline Flights Performance Dashboard"**](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python/07.%20Final%20Assignment)
 ## Certificate
 ![Coursera Data Visualization with Python](https://user-images.githubusercontent.com/89849171/172789510-b1f4ab6d-9683-4810-8f78-7f386552d8d4.png)
