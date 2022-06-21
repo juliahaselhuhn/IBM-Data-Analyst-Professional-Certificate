@@ -6,7 +6,7 @@ In this project you will apply various Data Analytics skills and techniques that
     * [Collecting data using APIs](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20IBM%20Data%20Analyst%20Capstone%20Project/02.%20Collecting_Data_Using_APIs.ipynb)
     * [Collecting data using webscraping](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20IBM%20Data%20Analyst%20Capstone%20Project/04.%20Collecting_Data_Using_Web_Scraping.ipynb)
     * [Exploring data](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20IBM%20Data%20Analyst%20Capstone%20Project/05.%20Explore_the_Data_Set.ipynb)
-  * Data wrangling 
+  * [Data wrangling](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20IBM%20Data%20Analyst%20Capstone%20Project/06.%20Data_Wrangling.ipynb)
     * Finding and removing duplicates
     * Finding and imputing missing values 
     * Normalizing data
