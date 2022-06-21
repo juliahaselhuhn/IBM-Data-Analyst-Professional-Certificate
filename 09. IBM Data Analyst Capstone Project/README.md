@@ -10,7 +10,7 @@ In this project you will apply various Data Analytics skills and techniques that
     * Finding and removing duplicates
     * Finding and imputing missing values 
     * Normalizing data
-  * Exploratory data analysis 
+  * [Exploratory data analysis](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20IBM%20Data%20Analyst%20Capstone%20Project/07.%20Exploratory_Data_Analysis.ipynb)
     * Distribution 
     * Outliers 
     * Correlation
