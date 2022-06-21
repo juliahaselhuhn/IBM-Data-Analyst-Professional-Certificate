@@ -3,8 +3,8 @@
 In this project you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
 ## Project Structure
   * Data collection 
-    * Collecting data using APIs 
-    * Collecting data using webscraping 
+    * [Collecting data using APIs](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20IBM%20Data%20Analyst%20Capstone%20Project/02.%20Collecting_Data_Using_APIs.ipynb)
+    * [Collecting data using webscraping](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20IBM%20Data%20Analyst%20Capstone%20Project/04.%20Collecting_Data_Using_Web_Scraping.ipynb)
     * Exploring data 
   * Data wrangling 
     * Finding and removing duplicates
