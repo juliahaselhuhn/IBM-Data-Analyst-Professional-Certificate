@@ -14,7 +14,7 @@ In this project you will apply various Data Analytics skills and techniques that
     * Distribution 
     * Outliers 
     * Correlation
-  * [Data visualization](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20IBM%20Data%20Analyst%20Capstone%20Project/07.%20Data_Visualization.ipynb)
+  * [Data visualization](https://github.com/juliahaselhuhn/IBM-Data-Analyst-Professional-Certificate/tree/main/09.%20IBM%20Data%20Analyst%20Capstone%20Project/08.%20Data_Visualization.ipynb)
     * Visualizing the distribution of data 
     * Visualizing the relationship between two features
     * Visualizing composition of data 
