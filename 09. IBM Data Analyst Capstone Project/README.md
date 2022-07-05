@@ -18,7 +18,7 @@ In this project you will apply various Data Analytics skills and techniques that
     * Visualizing the distribution of data 
     * Visualizing the relationship between two features
     * Visualizing composition of data 
-    * Visualizing comüparison of data 
+    * Visualizing comparison of data 
   * Building a dashboard 
     * Building a dashboard 
   * Final presentation 
